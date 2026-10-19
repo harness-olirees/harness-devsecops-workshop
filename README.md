@@ -34,6 +34,7 @@ In this lab, the user sets up a CI pipeline that runs source code tests, builds 
 
 ### Step 1: Create a Pipeline
 1. In the Harness UI, from the left-hand menu, navigate to **Projects** and select your assigned project
+2. Use the **Changing Harness Module** pre-read instruction to enable the **unified view**
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfhuMykMsIHl-7FjliWssHc0uwRpdLdrnq7GkGAI0g6UBZM69F1zpQ8ZA8N_vMqjpoGFYFR_weJk7OtOGGa2bksIaS6BlktwytmuJ1THM3e8O6tDT18HYWwFyGUye8ubsrHBChI8ORrCQ88JcKWpLjQ0DsXDS0NSZrkfZ4RUQ?key=cRG2cvp_PHVW0KG2Gq6Y_A)
 
