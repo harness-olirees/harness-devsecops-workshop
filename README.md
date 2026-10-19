@@ -101,11 +101,12 @@ Navigate to the **Execution** tab and add the following steps:
 **Build and Push to Docker**
 1. Click **Add Step**, then **Add Step** again
 2. Select **Build and Push an image to Docker Registry** from the Step Library
+3. Click on **Third Party Artifact Registry**
 
 | Input      | Value     | Notes |
 | ---------- | ----------------------  | ----- |
 | Name | <pre>`Push to DockerHub`</pre>||
-| Docker Connector | dockerhub ||
+| Docker Connector | dockerhub |Third Party Artifact Registry|
 | Docker Repository | <pre>`nikpap/harness-workshop`</pre>||
 | Tags | <pre>`<+variable.username>-<+pipeline.sequenceId>`</pre>| Click on the pin and select expression and paste the value |
 | **Optional Configuration** |||
