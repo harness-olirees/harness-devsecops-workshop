@@ -397,7 +397,7 @@ The target infrastructure has been pre-created and was used in the previous stag
 | ---------- | ----------------------  | ----- |
 | Name | <pre>`Verify`</pre>||
 | Continuous Verification Type | Canary ||
-| Duration | 5 min ||
+| Duration | 15 min ||
 |`                `|`                            `|`                `|
 
 5. Click **Save** and then click **Run** to execute the pipeline
