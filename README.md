@@ -1,4 +1,4 @@
-## Lab pre-read
+## Lab pre-read (OLI LAB GUIDE)
 
 ### Changing project
 1. From the left-hand side menu, click on **Account**
